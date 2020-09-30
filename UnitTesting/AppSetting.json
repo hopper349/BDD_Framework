@@ -1,0 +1,12 @@
+﻿{
+  "testSettings": {
+    "name": "staging",
+    "aut": "https://www.google.com/",
+    "remote": "No"
+    "browser": "Chrome",
+    "testType": "SmokeTest",
+    "isLog": "Y",
+    "logPath": "C:\\FWAutoLogs\\",
+    //"autConnectionString": "Data Source=EAEmployeeDB.mssql.somee.com;User ID=kartmcad_SQLLogin_1;Password=wtzaxoan1l;persist security info=False;initial catalog=EAEmployeeDB"
+  }
+}
